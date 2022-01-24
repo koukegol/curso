@@ -1,2 +1,2 @@
-# curso
+# Curso
 minicurso show
