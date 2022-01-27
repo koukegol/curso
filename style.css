@@ -21,3 +21,29 @@ main {
     justify-content: center;
     position: relative ;
 }
+
+main > section img {
+    height: 300px;
+    margin: 15px 0;
+    width: 300px;
+}
+
+main > section button {
+    background-color: #9400D3;
+    border: none;
+    border-radius: 1000000px;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 550;
+    letter-spacing: -0.6px;
+    line-height: 25px;
+    text-transform: capitalize;
+    padding: 9px 23px;
+}
+
+#datealhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    width: 90%;
+}
